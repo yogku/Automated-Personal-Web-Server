@@ -2,7 +2,7 @@
 This is the repo for the College Project of Linux
 
 
-# Personal Web Server Setup Using Apache on Red Hat Linux
+# Automating Personal Web Server Setup Using Apache on Red Hat Linux
 
 ## Project Overview
 This project demonstrates the setup of a personal web server using Apache on Red Hat Enterprise Linux. It covers the installation, configuration, and deployment of a custom HTML webpage.
